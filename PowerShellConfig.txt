@@ -1,0 +1,4 @@
+ npm config set https-proxy http://<username>:<password>@<proxy-server-url>:<port>
+
+
+npm config set https-proxy http://<95106860>:<@rman6771419>@<internet1.ikco.com>:<8080>
